@@ -1,0 +1,16 @@
+chain_B,resnum_B,resname_B,min_distance_to_polII,n_partner_residues,protein,is_interface
+b,115,THR,4.424,1,U1-70K,True
+b,118,LYS,3.456,1,U1-70K,True
+b,121,ARG,3.325,3,U1-70K,True
+b,122,GLU,3.344,1,U1-70K,True
+b,124,GLU,3.815,1,U1-70K,True
+b,125,VAL,3.41,4,U1-70K,True
+b,126,TYR,3.631,1,U1-70K,True
+b,153,HIS,2.95,2,U1-70K,True
+b,155,ARG,3.866,2,U1-70K,True
+b,156,ASP,3.117,1,U1-70K,True
+b,163,HIS,3.496,2,U1-70K,True
+b,167,LYS,3.33,2,U1-70K,True
+b,168,LYS,2.767,5,U1-70K,True
+b,170,ASP,4.093,1,U1-70K,True
+b,171,GLY,2.863,2,U1-70K,True

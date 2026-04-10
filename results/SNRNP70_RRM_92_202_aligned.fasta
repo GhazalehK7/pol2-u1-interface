@@ -1,0 +1,2124 @@
+>sp|P08621|RU17_HUMAN U1 small nuclear ribonucleoprotein 70 kDa OS=Homo sapiens OX=9606 GN=SNRNP70 PE=1 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>sp|Q62376|RU17_MOUSE U1 small nuclear ribonucleoprotein 70 kDa OS=Mus musculus OX=10090 GN=Snrnp70 PE=1 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8I6G5W4|A0A8I6G5W4_RAT U1 small nuclear ribonucleoprotein 70 kDa OS=Rattus norvegicus OX=10116 GN=Snrnp70 PE=1 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>sp|Q1RMR2|RU17_BOVIN U1 small nuclear ribonucleoprotein 70 kDa OS=Bos taurus OX=9913 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A0D9S347|A0A0D9S347_CHLSB U1 small nuclear ribonucleoprotein 70 kDa OS=Chlorocebus sabaeus OX=60711 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1S3G3B8|A0A1S3G3B8_DIPOR U1 small nuclear ribonucleoprotein 70 kDa OS=Dipodomys ordii OX=10020 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1U8CV31|A0A1U8CV31_MESAU U1 small nuclear ribonucleoprotein 70 kDa OS=Mesocricetus auratus OX=10036 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A287AJ85|A0A287AJ85_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 GN=SNRNP70 PE=1 SV=3
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------EGLG---------------------GTRRG
+>tr|A0A2K5EZU8|A0A2K5EZU8_AOTNA U1 small nuclear ribonucleoprotein 70 kDa OS=Aotus nancymaae OX=37293 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K5SAL1|A0A2K5SAL1_CEBIM U1 small nuclear ribonucleoprotein 70 kDa OS=Cebus imitator OX=2715852 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K6D005|A0A2K6D005_MACNE U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca nemestrina OX=9545 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K6G757|A0A2K6G757_PROCO U1 small nuclear ribonucleoprotein 70 kDa OS=Propithecus coquereli OX=379532 GN=SNRNP70 PE=4 SV=1
+FN------------FVS---N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K6MPI5|A0A2K6MPI5_RHIBE U1 small nuclear ribonucleoprotein 70 kDa OS=Rhinopithecus bieti OX=61621 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K6SFS1|A0A2K6SFS1_SAIBB U1 small nuclear ribonucleoprotein 70 kDa OS=Saimiri boliviensis boliviensis OX=39432 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2U4APC1|A0A2U4APC1_TURTR U1 small nuclear ribonucleoprotein 70 kDa OS=Tursiops truncatus OX=9739 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9F187|A0A2Y9F187_PHYMC U1 small nuclear ribonucleoprotein 70 kDa OS=Physeter macrocephalus OX=9755 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9P3W4|A0A2Y9P3W4_DELLE U1 small nuclear ribonucleoprotein 70 kDa OS=Delphinapterus leucas OX=9749 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q7SZJ4|A0A3Q7SZJ4_VULVU U1 small nuclear ribonucleoprotein 70 kDa OS=Vulpes vulpes OX=9627 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A452T1G0|A0A452T1G0_URSMA U1 small nuclear ribonucleoprotein 70 kDa OS=Ursus maritimus OX=29073 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A670J7D3|A0A670J7D3_PODMU U1 small nuclear ribonucleoprotein 70 kDa OS=Podarcis muralis OX=64176 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A670ZMW4|A0A670ZMW4_PSETE U1 small nuclear ribonucleoprotein 70 kDa OS=Pseudonaja textilis OX=8673 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A671ELQ3|A0A671ELQ3_RHIFE U1 small nuclear ribonucleoprotein 70 kDa OS=Rhinolophus ferrumequinum OX=59479 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6I8PBP2|A0A6I8PBP2_ORNAN U1 small nuclear ribonucleoprotein 70 kDa OS=Ornithorhynchus anatinus OX=9258 GN=SNRNP70 PE=4 SV=1
+HNDSNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J0E4P7|A0A6J0E4P7_PERMB U1 small nuclear ribonucleoprotein 70 kDa OS=Peromyscus maniculatus bairdii OX=230844 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J1U3R5|A0A6J1U3R5_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Notechis scutatus OX=8663 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P3FVY8|A0A6P3FVY8_OCTDE U1 small nuclear ribonucleoprotein 70 kDa OS=Octodon degus OX=10160 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P5Q179|A0A6P5Q179_MUSCR U1 small nuclear ribonucleoprotein 70 kDa OS=Mus caroli OX=10089 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P6DQM3|A0A6P6DQM3_OCTDE U1 small nuclear ribonucleoprotein 70 kDa OS=Octodon degus OX=10160 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7M4FFZ6|A0A7M4FFZ6_CROPO U1 small nuclear ribonucleoprotein 70 kDa OS=Crocodylus porosus OX=8502 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------STFVMA
+IATAGLQ------LILML-----------PPYNISLYA----------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7N4PL92|A0A7N4PL92_SARHA U1 small nuclear ribonucleoprotein 70 kDa OS=Sarcophilus harrisii OX=9305 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B7W539|A0A8B7W539_CASCN U1 small nuclear ribonucleoprotein 70 kDa OS=Castor canadensis OX=51338 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B8VXB6|A0A8B8VXB6_BALMU U1 small nuclear ribonucleoprotein 70 kDa OS=Balaenoptera musculus OX=9771 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B9XY10|A0A8B9XY10_BOSMU U1 small nuclear ribonucleoprotein 70 kDa OS=Bos mutus grunniens OX=30521 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C0G378|A0A8C0G378_CHEAB U1 small nuclear ribonucleoprotein 70 kDa OS=Chelonoidis abingdonii OX=106734 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C0LLG5|A0A8C0LLG5_CANLU U1 small nuclear ribonucleoprotein 70 kDa OS=Canis lupus dingo OX=286419 PE=4 SV=1
+HNDPNAQGDAFKTLFVARVFG------FGTMDKSKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C2V8F9|A0A8C2V8F9_CHILA U1 small nuclear ribonucleoprotein 70 kDa OS=Chinchilla lanigera OX=34839 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C3HMQ4|A0A8C3HMQ4_CHRPI U1 small nuclear ribonucleoprotein 70 kDa OS=Chrysemys picta bellii OX=8478 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C3VTM9|A0A8C3VTM9_9CETA U1 small nuclear ribonucleoprotein 70 kDa OS=Catagonus wagneri OX=51154 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C4LCE8|A0A8C4LCE8_EQUAS U1 small nuclear ribonucleoprotein 70 kDa OS=Equus asinus OX=9793 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C4WJQ0|A0A8C4WJQ0_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Gopherus evgoodei OX=1825980 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5JWU8|A0A8C5JWU8_JACJA U1 small nuclear ribonucleoprotein 70 kDa OS=Jaculus jaculus OX=51337 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5YAR9|A0A8C5YAR9_MICMU U1 small nuclear ribonucleoprotein 70 kDa OS=Microcebus murinus OX=30608 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5ZBR4|A0A8C5ZBR4_MARMA U1 small nuclear ribonucleoprotein 70 kDa OS=Marmota marmota marmota OX=9994 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C6FH26|A0A8C6FH26_MOSMO U1 small nuclear ribonucleoprotein 70 kDa OS=Moschus moschiferus OX=68415 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C6RSN5|A0A8C6RSN5_NANGA U1 small nuclear ribonucleoprotein 70 kDa OS=Nannospalax galili OX=1026970 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C6XPJ8|A0A8C6XPJ8_NAJNA U1 small nuclear ribonucleoprotein 70 kDa OS=Naja naja OX=35670 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C8YFN5|A0A8C8YFN5_PROSS U1 small nuclear ribonucleoprotein 70 kDa OS=Prolemur simus OX=1328070 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D0HGM0|A0A8D0HGM0_SPHPU U1 small nuclear ribonucleoprotein 70 kDa OS=Sphenodon punctatus OX=8508 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D2DAU3|A0A8D2DAU3_SCIVU U1 small nuclear ribonucleoprotein 70 kDa OS=Sciurus vulgaris OX=55149 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D2HM90|A0A8D2HM90_UROPR U1 small nuclear ribonucleoprotein 70 kDa OS=Urocitellus parryii OX=9999 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8I3MF21|A0A8I3MF21_CANLF U1 small nuclear ribonucleoprotein 70 kDa OS=Canis lupus familiaris OX=9615 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9J7GZQ6|A0A9J7GZQ6_CRIGR U1 small nuclear ribonucleoprotein 70 kDa OS=Cricetulus griseus OX=10029 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV0ABD9|A0AAV0ABD9_PHORO U1 small nuclear ribonucleoprotein 70 kDa OS=Phodopus roborovskii OX=109678 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAX6QIV3|A0AAX6QIV3_HETGA U1 small nuclear ribonucleoprotein 70 kDa OS=Heterocephalus glaber OX=10181 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAX6S1F1|A0AAX6S1F1_HETGA U1 small nuclear ribonucleoprotein 70 kDa OS=Heterocephalus glaber OX=10181 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|F7BMY5|F7BMY5_HORSE U1 small nuclear ribonucleoprotein 70 kDa OS=Equus caballus OX=9796 GN=SNRNP70 PE=4 SV=4
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|F7D867|F7D867_CALJA U1 small nuclear ribonucleoprotein 70 kDa OS=Callithrix jacchus OX=9483 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G1M7E6|G1M7E6_AILME U1 small nuclear ribonucleoprotein 70 kDa OS=Ailuropoda melanoleuca OX=9646 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G1PJ07|G1PJ07_MYOLU U1 small nuclear ribonucleoprotein 70 kDa OS=Myotis lucifugus OX=59463 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G1QYH7|G1QYH7_NOMLE U1 small nuclear ribonucleoprotein 70 kDa OS=Nomascus leucogenys OX=61853 GN=SNRNP70 PE=4 SV=3
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G3HZY5|G3HZY5_CRIGR U1 small nuclear ribonucleoprotein 70 kDa OS=Cricetulus griseus OX=10029 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H0W1R5|H0W1R5_CAVPO U1 small nuclear ribonucleoprotein 70 kDa OS=Cavia porcellus OX=10141 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H0XUM5|H0XUM5_OTOGA U1 small nuclear ribonucleoprotein 70 kDa OS=Otolemur garnettii OX=30611 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>sp|P09406|RU17_XENLA U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus laevis OX=8355 GN=snrnp70 PE=2 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVYNKGSEG
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>sp|Q66II8|RU17_XENTR U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus tropicalis OX=8364 GN=snrnp70 PE=2 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|Q6DRE8|Q6DRE8_DANRE U1 small nuclear ribonucleoprotein 70 kDa OS=Danio rerio OX=7955 GN=snrnp70 PE=1 SV=1
+HNDANAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|U3DSB3|U3DSB3_CALJA U1 small nuclear ribonucleoprotein 70 kDa OS=Callithrix jacchus OX=9483 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A060WZ72|A0A060WZ72_ONCMY U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus mykiss OX=8022 GN=GSONMT00046049001 PE=4 SV=1
+------------------------------------------------------------
+------------------------------------------------------A-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A087YFF0|A0A087YFF0_POEFO U1 small nuclear ribonucleoprotein 70 kDa OS=Poecilia formosa OX=48698 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A151P1Z8|A0A151P1Z8_ALLMI U1 small nuclear ribonucleoprotein 70 kDa OS=Alligator mississippiensis OX=8496 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------STFVMA
+IATAGLQ------LILML-----------PPYNISLYG----------------------
+-----WYK-----GLYDWRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A151P241|A0A151P241_ALLMI U1 small nuclear ribonucleoprotein 70 kDa OS=Alligator mississippiensis OX=8496 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A6G2G0|A0A1A6G2G0_NEOLE U1 small nuclear ribonucleoprotein 70 kDa OS=Neotoma lepida OX=56216 GN=A6R68_08530 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A7XFQ0|A0A1A7XFQ0_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Iconisemion striatum OX=60296 GN=SNRNP70 PE=4 SV=1
+HNDTNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8AQB5|A0A1A8AQB5_NOTFU U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius furzeri OX=105023 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8C701|A0A1A8C701_NOTKA U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius kadleci OX=1051664 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8GD37|A0A1A8GD37_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius korthausae OX=1143690 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8J9G0|A0A1A8J9G0_NOTKU U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius kuhntae OX=321403 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8MZ43|A0A1A8MZ43_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius pienaari OX=704102 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1A8SEU1|A0A1A8SEU1_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Nothobranchius rachovii OX=451742 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1L8FH82|A0A1L8FH82_XENLA U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus laevis OX=8355 GN=snrnp70.S PE=4 SV=1
+HNDQNAQGDAFKTLFIARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVFNK---Q
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1L8FNI8|A0A1L8FNI8_XENLA U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus laevis OX=8355 GN=snrnp70.L PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVYNKGSEG
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1S3P8Z7|A0A1S3P8Z7_SALSA U1 small nuclear ribonucleoprotein 70 kDa OS=Salmo salar OX=8030 GN=LOC106583923 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1S3R7I8|A0A1S3R7I8_SALSA U1 small nuclear ribonucleoprotein 70 kDa OS=Salmo salar OX=8030 GN=LOC106600692 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A1U7RBF2|A0A1U7RBF2_ALLSI U1 small nuclear ribonucleoprotein 70 kDa OS=Alligator sinensis OX=38654 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2I4C8U4|A0A2I4C8U4_AUSLI U1 small nuclear ribonucleoprotein 70 kDa OS=Austrofundulus limnaeus OX=52670 GN=snrnp70 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K5JC41|A0A2K5JC41_COLAP U1 small nuclear ribonucleoprotein 70 kDa OS=Colobus angolensis palliatus OX=336983 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2K5KVR3|A0A2K5KVR3_CERAT U1 small nuclear ribonucleoprotein 70 kDa OS=Cercocebus atys OX=9531 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------GE--
+------------------------------------------------------------
+>tr|A0A2K5YDK0|A0A2K5YDK0_MANLE U1 small nuclear ribonucleoprotein 70 kDa OS=Mandrillus leucophaeus OX=9568 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------GK--
+-----------------------------IGRLG---------------------SWGRG
+>tr|A0A2U3WZV1|A0A2U3WZV1_ODORO U1 small nuclear ribonucleoprotein 70 kDa OS=Odobenus rosmarus divergens OX=9708 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2U3Z351|A0A2U3Z351_LEPWE U1 small nuclear ribonucleoprotein 70 kDa OS=Leptonychotes weddellii OX=9713 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2U4APS8|A0A2U4APS8_TURTR U1 small nuclear ribonucleoprotein 70 kDa OS=Tursiops truncatus OX=9739 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9DV22|A0A2Y9DV22_TRIMA U1 small nuclear ribonucleoprotein 70 kDa OS=Trichechus manatus latirostris OX=127582 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9F0F8|A0A2Y9F0F8_PHYMC U1 small nuclear ribonucleoprotein 70 kDa OS=Physeter macrocephalus OX=9755 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9FYP9|A0A2Y9FYP9_TRIMA U1 small nuclear ribonucleoprotein 70 kDa OS=Trichechus manatus latirostris OX=127582 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9L246|A0A2Y9L246_ENHLU U1 small nuclear ribonucleoprotein 70 kDa OS=Enhydra lutris kenyoni OX=391180 GN=LOC111160547 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9L763|A0A2Y9L763_ENHLU U1 small nuclear ribonucleoprotein 70 kDa OS=Enhydra lutris kenyoni OX=391180 GN=LOC111160547 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A2Y9P6J0|A0A2Y9P6J0_DELLE U1 small nuclear ribonucleoprotein 70 kDa OS=Delphinapterus leucas OX=9749 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A315W3Q8|A0A315W3Q8_GAMAF U1 small nuclear ribonucleoprotein 70 kDa OS=Gambusia affinis OX=33528 GN=CCH79_00018942 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B1IRW9|A0A3B1IRW9_ASTMX U1 small nuclear ribonucleoprotein 70 kDa OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B1JAX9|A0A3B1JAX9_ASTMX U1 small nuclear ribonucleoprotein 70 kDa OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV------------------------------IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B3C2Y3|A0A3B3C2Y3_ORYME U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias melastigma OX=30732 GN=FQA47_018579 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B3H690|A0A3B3H690_ORYLA U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias latipes OX=8090 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B3VA15|A0A3B3VA15_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Poecilia latipinna OX=48699 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B3YE70|A0A3B3YE70_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Poecilia mexicana OX=48701 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------QMLL---------------------CLRLS
+>tr|A0A3B4CIC7|A0A3B4CIC7_PYGNA U1 small nuclear ribonucleoprotein 70 kDa OS=Pygocentrus nattereri OX=42514 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B4F0U9|A0A3B4F0U9_9CICH U1 small nuclear ribonucleoprotein 70 kDa OS=Pundamilia nyererei OX=303518 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B4F154|A0A3B4F154_9CICH U1 small nuclear ribonucleoprotein 70 kDa OS=Pundamilia nyererei OX=303518 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-VTCVVMIYIVIY-SFLLLLFQ--------IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL---------GG---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B4V0W6|A0A3B4V0W6_SERDU U1 small nuclear ribonucleoprotein 70 kDa OS=Seriola dumerili OX=41447 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B4X722|A0A3B4X722_SERLL U1 small nuclear ribonucleoprotein 70 kDa OS=Seriola lalandi dorsalis OX=1841481 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B4XIQ7|A0A3B4XIQ7_SERLL U1 small nuclear ribonucleoprotein 70 kDa OS=Seriola lalandi dorsalis OX=1841481 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B5A317|A0A3B5A317_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Stegastes partitus OX=144197 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B5LVM1|A0A3B5LVM1_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Xiphophorus couchianus OX=32473 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------QMVL---------------------CPRLS
+>tr|A0A3B5PVB8|A0A3B5PVB8_XIPMA U1 small nuclear ribonucleoprotein 70 kDa OS=Xiphophorus maculatus OX=8083 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3B5QXH8|A0A3B5QXH8_XIPMA U1 small nuclear ribonucleoprotein 70 kDa OS=Xiphophorus maculatus OX=8083 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------QMVL---------------------CPRLS
+>tr|A0A3P8PHA2|A0A3P8PHA2_ASTCA U1 small nuclear ribonucleoprotein 70 kDa OS=Astatotilapia calliptera OX=8154 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3P8S968|A0A3P8S968_AMPPE U1 small nuclear ribonucleoprotein 70 kDa OS=Amphiprion percula OX=161767 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3P8S974|A0A3P8S974_AMPPE U1 small nuclear ribonucleoprotein 70 kDa OS=Amphiprion percula OX=161767 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-V------SSISL-SVIN-------------MVLYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------QPLV--------------------------
+>tr|A0A3P9D8H7|A0A3P9D8H7_9CICH U1 small nuclear ribonucleoprotein 70 kDa OS=Maylandia zebra OX=106582 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3P9HR10|A0A3P9HR10_ORYLA U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias latipes OX=8090 PE=4 SV=1
+FFTPFSNGE--KLCFFSLL-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------------------------------------
+>tr|A0A3P9HR19|A0A3P9HR19_ORYLA U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias latipes OX=8090 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3P9MID5|A0A3P9MID5_ORYLA U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias latipes OX=8090 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRLVPAKQ-----GCLP
+----EDCSYLT-------------------GCVS----AVTVTVASARSAAATAIGTRKG
+>tr|A0A3P9NEP9|A0A3P9NEP9_POERE U1 small nuclear ribonucleoprotein 70 kDa OS=Poecilia reticulata OX=8081 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3P9NES9|A0A3P9NES9_POERE U1 small nuclear ribonucleoprotein 70 kDa OS=Poecilia reticulata OX=8081 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------QMLL---------------------CPRLS
+>tr|A0A3Q0G120|A0A3Q0G120_ALLSI U1 small nuclear ribonucleoprotein 70 kDa OS=Alligator sinensis OX=38654 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q0SJ70|A0A3Q0SJ70_AMPCI U1 small nuclear ribonucleoprotein 70 kDa OS=Amphilophus citrinellus OX=61819 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q1B1T8|A0A3Q1B1T8_AMPOC U1 small nuclear ribonucleoprotein 70 kDa OS=Amphiprion ocellaris OX=80972 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q1GR03|A0A3Q1GR03_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Acanthochromis polyacanthus OX=80966 PE=3 SV=1
+--------Q----------------------------------------IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G--P
+YEASQDYELLANFQAVGWEAPGEAALTSTSSTLGVMMRPVTTSVRWAAIENVETGGNAAG
+>tr|A0A3Q1HZ02|A0A3Q1HZ02_ANATE U1 small nuclear ribonucleoprotein 70 kDa OS=Anabas testudineus OX=64144 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q2PAS8|A0A3Q2PAS8_FUNHE U1 small nuclear ribonucleoprotein 70 kDa OS=Fundulus heteroclitus OX=8078 PE=4 SV=1
+HNDQNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q2VY38|A0A3Q2VY38_HAPBU U1 small nuclear ribonucleoprotein 70 kDa OS=Haplochromis burtoni OX=8153 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL---------GG---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3A8X4|A0A3Q3A8X4_KRYMA U1 small nuclear ribonucleoprotein 70 kDa OS=Kryptolebias marmoratus OX=37003 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3CWQ6|A0A3Q3CWQ6_HAPBU U1 small nuclear ribonucleoprotein 70 kDa OS=Haplochromis burtoni OX=8153 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3DWP7|A0A3Q3DWP7_HIPCM U1 small nuclear ribonucleoprotein 70 kDa OS=Hippocampus comes OX=109280 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-V---------SV-SKLR---------PS-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3FGC4|A0A3Q3FGC4_9LABR U1 small nuclear ribonucleoprotein 70 kDa OS=Labrus bergylta OX=56723 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3LAL8|A0A3Q3LAL8_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Mastacembelus armatus OX=205130 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYSK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A3Q3VZE7|A0A3Q3VZE7_MOLML U1 small nuclear ribonucleoprotein 70 kDa OS=Mola mola OX=94237 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A401SV01|A0A401SV01_CHIPU U1 small nuclear ribonucleoprotein 70 kDa OS=Chiloscyllium punctatum OX=137246 GN=chiPu_0012666 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A480YVZ6|A0A480YVZ6_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------SX----
+-------------------------------------------------------XXXXX
+XXXXXAYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A484CP00|A0A484CP00_PERFV U1 small nuclear ribonucleoprotein 70 kDa OS=Perca flavescens OX=8167 GN=EPR50_G00163190 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4D9DQ41|A0A4D9DQ41_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Platysternon megacephalum OX=55544 GN=DR999_PMT21249 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4U5VIH4|A0A4U5VIH4_COLLU U1 small nuclear ribonucleoprotein 70 kDa OS=Collichthys lucidus OX=240159 GN=D9C73_022258 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4U5VII2|A0A4U5VII2_COLLU U1 small nuclear ribonucleoprotein 70 kDa OS=Collichthys lucidus OX=240159 GN=D9C73_022261 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W2CJ09|A0A4W2CJ09_BOBOX U1 small nuclear ribonucleoprotein 70 kDa OS=Bos indicus x Bos taurus OX=30522 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W4DS82|A0A4W4DS82_ELEEL U1 small nuclear ribonucleoprotein 70 kDa OS=Electrophorus electricus OX=8005 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W5KRF5|A0A4W5KRF5_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Hucho hucho OX=62062 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W5KRH7|A0A4W5KRH7_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Hucho hucho OX=62062 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W5LRP6|A0A4W5LRP6_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Hucho hucho OX=62062 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4W6E0D9|A0A4W6E0D9_LATCA U1 small nuclear ribonucleoprotein 70 kDa OS=Lates calcarifer OX=8187 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4X1VU15|A0A4X1VU15_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4X1VZW1|A0A4X1VZW1_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A4X2KXK7|A0A4X2KXK7_VOMUR U1 small nuclear ribonucleoprotein 70 kDa OS=Vombatus ursinus OX=29139 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A553R9Y6|A0A553R9Y6_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Danionella cerebrum OX=2873325 GN=DNTS_001255 PE=4 SV=1
+HNDSNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A556UZT7|A0A556UZT7_BAGYA U1 small nuclear ribonucleoprotein 70 kDa OS=Bagarius yarrelli OX=175774 GN=Baya_11500 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A5C6N9Z7|A0A5C6N9Z7_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Takifugu flavidus OX=433684 GN=D4764_03G0013200 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYSK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A5E4BCT5|A0A5E4BCT5_MARMO U1 small nuclear ribonucleoprotein 70 kDa OS=Marmota monax OX=9995 GN=GHT09_008396 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A5J5MT90|A0A5J5MT90_MUNRE U1 small nuclear ribonucleoprotein 70 kDa OS=Muntiacus reevesi OX=9886 GN=FD755_004589 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A665WL62|A0A665WL62_ECHNA U1 small nuclear ribonucleoprotein 70 kDa OS=Echeneis naucrates OX=173247 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A667ZZF3|A0A667ZZF3_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Myripristis murdjan OX=586833 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A668W7I0|A0A668W7I0_OREAU U1 small nuclear ribonucleoprotein 70 kDa OS=Oreochromis aureus OX=47969 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A671QN95|A0A671QN95_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107658470 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A671QQD0|A0A671QQD0_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107658470 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A671QRP4|A0A671QRP4_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus anshuiensis OX=1608454 GN=LOC107658470 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A672GU05|A0A672GU05_SALFA U1 small nuclear ribonucleoprotein 70 kDa OS=Salarias fasciatus OX=181472 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIRR-IYIVYNK---R
+TGKPRGYPPPPHGRLPSARSSP--------------------------------A-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+-------QLIS-------------------PHLN-----THTQLASPPAAAPHPLQRERG
+>tr|A0A672T3A9|A0A672T3A9_SINGR U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus grahami OX=75366 GN=LOC107548330 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A672TAC9|A0A672TAC9_SINGR U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus grahami OX=75366 GN=LOC107583035 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A672TAW2|A0A672TAW2_SINGR U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus grahami OX=75366 GN=LOC107583035 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A672TBS0|A0A672TBS0_SINGR U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus grahami OX=75366 GN=LOC107583035 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673AXX4|A0A673AXX4_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sphaeramia orbicularis OX=375764 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673G1J2|A0A673G1J2_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus rhinocerous OX=307959 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673G625|A0A673G625_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus rhinocerous OX=307959 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673GAB4|A0A673GAB4_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus rhinocerous OX=307959 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673IBS2|A0A673IBS2_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Sinocyclocheilus rhinocerous OX=307959 GN=LOC107730757 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A673VLN1|A0A673VLN1_SURSU U1 small nuclear ribonucleoprotein 70 kDa OS=Suricata suricatta OX=37032 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A674B9J5|A0A674B9J5_SALTR U1 small nuclear ribonucleoprotein 70 kDa OS=Salmo trutta OX=8032 GN=LOC115192113 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A674HN54|A0A674HN54_TAEGU U1 small nuclear ribonucleoprotein 70 kDa OS=Taeniopygia guttata OX=59729 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6A4SAF0|A0A6A4SAF0_SCOMX U1 small nuclear ribonucleoprotein 70 kDa OS=Scophthalmus maximus OX=52904 GN=F2P81_014466 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6A5EZR5|A0A6A5EZR5_PERFL U1 small nuclear ribonucleoprotein 70 kDa OS=Perca fluviatilis OX=8168 GN=PFLUV_G00182480 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6G0HWV1|A0A6G0HWV1_LARCR U1 small nuclear ribonucleoprotein 70 kDa OS=Larimichthys crocea OX=215358 GN=D5F01_LYC19113 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6G1QA61|A0A6G1QA61_CHAAH U1 small nuclear ribonucleoprotein 70 kDa OS=Channa argus OX=215402 GN=EXN66_Car015217 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6I8PXY4|A0A6I8PXY4_XENTR U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus tropicalis OX=8364 GN=snrnp70 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-VCILGGL--LC
+ACKLIGSVLPFW---KH--CVT--------------------------------A-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6I9NJT5|A0A6I9NJT5_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Notothenia coriiceps OX=8208 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J0AP50|A0A6J0AP50_VICPA U1 small nuclear ribonucleoprotein 70 kDa OS=Vicugna pacos OX=30538 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J0AQ95|A0A6J0AQ95_VICPA U1 small nuclear ribonucleoprotein 70 kDa OS=Vicugna pacos OX=30538 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J0TUD4|A0A6J0TUD4_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Pogona vitticeps OX=103695 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J0WTS9|A0A6J0WTS9_ODOVR U1 small nuclear ribonucleoprotein 70 kDa OS=Odocoileus virginianus OX=9874 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J1XMU6|A0A6J1XMU6_ACIJB U1 small nuclear ribonucleoprotein 70 kDa isoform X3 OS=Acinonyx jubatus OX=32536 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J1XMW0|A0A6J1XMW0_ACIJB U1 small nuclear ribonucleoprotein 70 kDa OS=Acinonyx jubatus OX=32536 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J2F9Q7|A0A6J2F9Q7_ZALCA U1 small nuclear ribonucleoprotein 70 kDa OS=Zalophus californianus OX=9704 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J2MZV7|A0A6J2MZV7_9CHIR U1 small nuclear ribonucleoprotein 70 kDa OS=Phyllostomus discolor OX=89673 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J2N591|A0A6J2N591_9CHIR U1 small nuclear ribonucleoprotein 70 kDa OS=Phyllostomus discolor OX=89673 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J2X0Q6|A0A6J2X0Q6_CHACN U1 small nuclear ribonucleoprotein 70 kDa OS=Chanos chanos OX=29144 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P3R045|A0A6P3R045_PTEVA U1 small nuclear ribonucleoprotein 70 kDa OS=Pteropus vampyrus OX=132908 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P3R1K7|A0A6P3R1K7_PTEVA U1 small nuclear ribonucleoprotein 70 kDa OS=Pteropus vampyrus OX=132908 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P5LRZ7|A0A6P5LRZ7_PHACI U1 small nuclear ribonucleoprotein 70 kDa OS=Phascolarctos cinereus OX=38626 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P5LST4|A0A6P5LST4_PHACI U1 small nuclear ribonucleoprotein 70 kDa OS=Phascolarctos cinereus OX=38626 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P6H313|A0A6P6H313_PUMCO U1 small nuclear ribonucleoprotein 70 kDa OS=Puma concolor OX=9696 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------C-----
+-----LK----C-------------------VSTAV------------------------
+-----LLKRTRHWRLQACLLLFDAPRLPSLSALFGLTLSPPAPAPAP---------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P6JRR3|A0A6P6JRR3_CARAU U1 small nuclear ribonucleoprotein 70 kDa OS=Carassius auratus OX=7957 GN=LOC113045965 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----SYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P6JZ41|A0A6P6JZ41_CARAU U1 small nuclear ribonucleoprotein 70 kDa OS=Carassius auratus OX=7957 GN=LOC113047190 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVFNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P7IQA9|A0A6P7IQA9_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Parambassis ranga OX=210632 GN=snrnp70 PE=4 SV=1
+HNDTNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P7N8P6|A0A6P7N8P6_BETSP U1 small nuclear ribonucleoprotein 70 kDa OS=Betta splendens OX=158456 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P7XSZ3|A0A6P7XSZ3_9AMPH U1 small nuclear ribonucleoprotein 70 kDa OS=Microcaecilia unicolor OX=1415580 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVYNR---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P8FCW3|A0A6P8FCW3_CLUHA U1 small nuclear ribonucleoprotein 70 kDa OS=Clupea harengus OX=7950 GN=snrnp70 PE=4 SV=1
+HNDANAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVFNK---K
+TQKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P8SST1|A0A6P8SST1_GEOSA U1 small nuclear ribonucleoprotein 70 kDa OS=Geotrypetes seraphini OX=260995 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVYNR---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P8VPN8|A0A6P8VPN8_GYMAC U1 small nuclear ribonucleoprotein 70 kDa OS=Gymnodraco acuticeps OX=8218 GN=LOC117560052 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6P9BUA8|A0A6P9BUA8_PANGU U1 small nuclear ribonucleoprotein 70 kDa OS=Pantherophis guttatus OX=94885 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6Q2Z9B0|A0A6Q2Z9B0_ESOLU U1 small nuclear ribonucleoprotein 70 kDa OS=Esox lucius OX=8010 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J7FD81|A0A7J7FD81_DICBM U1 small nuclear ribonucleoprotein 70 kDa OS=Diceros bicornis minor OX=77932 GN=HPG69_000408 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J7QY33|A0A7J7QY33_MYOMY U1 small nuclear ribonucleoprotein 70 kDa OS=Myotis myotis OX=51298 GN=mMyoMyo1_018061 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J7RCE2|A0A7J7RCE2_PIPKU U1 small nuclear ribonucleoprotein 70 kDa OS=Pipistrellus kuhlii OX=59472 GN=mPipKuh1_016376 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J7SLF4|A0A7J7SLF4_RHIFE U1 small nuclear ribonucleoprotein 70 kDa OS=Rhinolophus ferrumequinum OX=59479 GN=mRhiFer1_015861 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J7SLF5|A0A7J7SLF5_RHIFE U1 small nuclear ribonucleoprotein 70 kDa OS=Rhinolophus ferrumequinum OX=59479 GN=mRhiFer1_015861 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J8CB91|A0A7J8CB91_MOLMO U1 small nuclear ribonucleoprotein 70 kDa OS=Molossus molossus OX=27622 GN=HJG59_017093 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J8CB93|A0A7J8CB93_MOLMO U1 small nuclear ribonucleoprotein 70 kDa OS=Molossus molossus OX=27622 GN=HJG59_017093 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J8CLS4|A0A7J8CLS4_ROUAE U1 small nuclear ribonucleoprotein 70 kDa OS=Rousettus aegyptiacus OX=9407 GN=HJG63_018172 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7J8CLW3|A0A7J8CLW3_ROUAE U1 small nuclear ribonucleoprotein 70 kDa OS=Rousettus aegyptiacus OX=9407 GN=HJG63_018172 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A7M4FF49|A0A7M4FF49_CROPO U1 small nuclear ribonucleoprotein 70 kDa OS=Crocodylus porosus OX=8502 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A803T078|A0A803T078_ANOCA U1 small nuclear ribonucleoprotein 70 kDa OS=Anolis carolinensis OX=28377 GN=SNRNP70 PE=4 SV=1
+HNDTNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A834DG31|A0A834DG31_9CHIR U1 small nuclear ribonucleoprotein 70 kDa OS=Phyllostomus discolor OX=89673 GN=HJG60_017835 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A834DIT4|A0A834DIT4_9CHIR U1 small nuclear ribonucleoprotein 70 kDa OS=Phyllostomus discolor OX=89673 GN=HJG60_017835 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B7SKB8|A0A8B7SKB8_HIPAR U1 small nuclear ribonucleoprotein 70 kDa OS=Hipposideros armiger OX=186990 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B7SN59|A0A8B7SN59_HIPAR U1 small nuclear ribonucleoprotein 70 kDa OS=Hipposideros armiger OX=186990 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B8VW32|A0A8B8VW32_BALMU U1 small nuclear ribonucleoprotein 70 kDa OS=Balaenoptera musculus OX=9771 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B9L1H9|A0A8B9L1H9_ASTMX U1 small nuclear ribonucleoprotein 70 kDa OS=Astyanax mexicanus OX=7994 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B9L3G0|A0A8B9L3G0_ASTMX U1 small nuclear ribonucleoprotein 70 kDa OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-V------MH----------------VSI-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8B9L445|A0A8B9L445_ASTMX U1 small nuclear ribonucleoprotein 70 kDa OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C1JI73|A0A8C1JI73_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 GN=LOC109058930 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C1KWU5|A0A8C1KWU5_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C1QMV0|A0A8C1QMV0_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C1W1Y3|A0A8C1W1Y3_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C1W526|A0A8C1W526_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C2C2K5|A0A8C2C2K5_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 GN=LOC109058930 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C2HAJ6|A0A8C2HAJ6_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio OX=7962 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C2MPS1|A0A8C2MPS1_CRIGR U1 small nuclear ribonucleoprotein 70 kDa OS=Cricetulus griseus OX=10029 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------TWFL---------------------GTEWS
+>tr|A0A8C2ZY27|A0A8C2ZY27_CYCLU U1 small nuclear ribonucleoprotein 70 kDa OS=Cyclopterus lumpus OX=8103 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TQKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C3G490|A0A8C3G490_CYCLU U1 small nuclear ribonucleoprotein 70 kDa OS=Cyclopterus lumpus OX=8103 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TQKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C3T835|A0A8C3T835_CHESE U1 small nuclear ribonucleoprotein 70 kDa OS=Chelydra serpentina OX=8475 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C4DZ78|A0A8C4DZ78_DICLA U1 small nuclear ribonucleoprotein 70 kDa OS=Dicentrarchus labrax OX=13489 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5DJ30|A0A8C5DJ30_GOUWI U1 small nuclear ribonucleoprotein 70 kDa OS=Gouania willdenowi OX=441366 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIRR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5MPU7|A0A8C5MPU7_9ANUR U1 small nuclear ribonucleoprotein 70 kDa OS=Leptobrachium leishanense OX=445787 GN=CLUAP1 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C5MQ46|A0A8C5MQ46_9ANUR U1 small nuclear ribonucleoprotein 70 kDa OS=Leptobrachium leishanense OX=445787 GN=CLUAP1 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL--------------
+------------------------------------------------------------
+>tr|A0A8C6USV1|A0A8C6USV1_9GOBI U1 small nuclear ribonucleoprotein 70 kDa OS=Neogobius melanostomus OX=47308 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C7I4T5|A0A8C7I4T5_ONCKI U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus kisutch OX=8019 GN=LOC109898238 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C7UPI3|A0A8C7UPI3_ONCMY U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus mykiss OX=8022 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C7UYL9|A0A8C7UYL9_ONCMY U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus mykiss OX=8022 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C7YXI5|A0A8C7YXI5_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias sinensis OX=183150 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C8CYY0|A0A8C8CYY0_ONCTS U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus tshawytscha OX=74940 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C8HE96|A0A8C8HE96_ONCTS U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus tshawytscha OX=74940 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C8HJZ3|A0A8C8HJZ3_ONCTS U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus tshawytscha OX=74940 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C8RGT9|A0A8C8RGT9_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Pelusios castaneus OX=367368 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C9H8C3|A0A8C9H8C3_9PRIM U1 small nuclear ribonucleoprotein 70 kDa OS=Piliocolobus tephrosceles OX=591936 PE=4 SV=1
+FKNNDLTSDAHKTLFIGRL-S------YDVNE-KKLKKEFETYGKIRK-IKIIYDK----
+NEKPKGYAFIEF---EHTKSFN--------------------------------E-----
+------------------------------------------------------------
+-----AYKLADGKKIENRRILVDIER--------GRTIKNWYPRRL----------G---
+------------------------------GG----------------------RGPARG
+>tr|A0A8C9R786|A0A8C9R786_SCLFO U1 small nuclear ribonucleoprotein 70 kDa OS=Scleropages formosus OX=113540 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYSK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8C9TZR2|A0A8C9TZR2_SCLFO U1 small nuclear ribonucleoprotein 70 kDa OS=Scleropages formosus OX=113540 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D0D9P7|A0A8D0D9P7_SANLU U1 small nuclear ribonucleoprotein 70 kDa OS=Sander lucioperca OX=283035 GN=snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D0E8Q0|A0A8D0E8Q0_SALMN U1 small nuclear ribonucleoprotein 70 kDa OS=Salvator merianae OX=96440 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D0MSK6|A0A8D0MSK6_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL--------------
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D1CFT6|A0A8D1CFT6_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D1X1E9|A0A8D1X1E9_PIG U1 small nuclear ribonucleoprotein 70 kDa OS=Sus scrofa OX=9823 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8D2KRU1|A0A8D2KRU1_VARKO U1 small nuclear ribonucleoprotein 70 kDa OS=Varanus komodoensis OX=61221 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8J6G409|A0A8J6G409_MICOH U1 small nuclear ribonucleoprotein 70 kDa OS=Microtus ochrogaster OX=79684 GN=LTLLF_181565 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8J6K5F5|A0A8J6K5F5_ELECQ U1 small nuclear ribonucleoprotein 70 kDa OS=Eleutherodactylus coqui OX=57060 GN=GDO78_010642 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8S4AT13|A0A8S4AT13_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Menidia menidia OX=238744 GN=MMEN_LOCUS9173 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8T1RYK5|A0A8T1RYK5_CHESE U1 small nuclear ribonucleoprotein 70 kDa OS=Chelydra serpentina OX=8475 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8T2IQX3|A0A8T2IQX3_9PIPI U1 small nuclear ribonucleoprotein 70 kDa OS=Hymenochirus boettgeri OX=247094 GN=GDO86_012359 PE=4 SV=1
+HNDLNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8T3CJN6|A0A8T3CJN6_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Albula goreensis OX=1534307 GN=AGOR_G00228970 PE=4 SV=1
+HNDPNAQGDAFRTLFVARV-N------YDTTE-SKLRREFEVYGPVKR-IYLVYNK---K
+TSKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8U0R7U9|A0A8U0R7U9_SALNM U1 small nuclear ribonucleoprotein 70 kDa OS=Salvelinus namaycush OX=8040 GN=LOC120052740 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---Q
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A8V5GU69|A0A8V5GU69_MELUD U1 small nuclear ribonucleoprotein 70 kDa OS=Melopsittacus undulatus OX=13146 GN=LOC115946128 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9B0TUZ3|A0A9B0TUZ3_CHRAS U1 small nuclear ribonucleoprotein 70 kDa OS=Chrysochloris asiatica OX=185453 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9D3XKH4|A0A9D3XKH4_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Mauremys mutica OX=74926 GN=KIL84_002140 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9F2QXF7|A0A9F2QXF7_PYTBI U1 small nuclear ribonucleoprotein 70 kDa OS=Python bivittatus OX=176946 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9J7Z5V4|A0A9J7Z5V4_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9J8D2K1|A0A9J8D2K1_CYPCA U1 small nuclear ribonucleoprotein 70 kDa OS=Cyprinus carpio carpio OX=630221 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9N7URX8|A0A9N7URX8_PLEPL U1 small nuclear ribonucleoprotein 70 kDa OS=Pleuronectes platessa OX=8262 GN=PLEPLA_LOCUS23303 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPVKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----SYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9Q0XGB1|A0A9Q0XGB1_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Phrynocephalus forsythii OX=171643 GN=JRQ81_005424 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9W2VSM7|A0A9W2VSM7_PANPR U1 small nuclear ribonucleoprotein 70 kDa OS=Panthera pardus OX=9691 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A9W7WL07|A0A9W7WL07_TRIRA U1 small nuclear ribonucleoprotein 70 kDa OS=Triplophysa rosa OX=992332 GN=IRJ41_012783 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA35L549|A0AA35L549_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Podarcis lilfordi OX=74358 GN=PODLI_1B020774 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA40HET9|A0AA40HET9_CNENI U1 small nuclear ribonucleoprotein 70 kDa OS=Cnephaeus nilssonii OX=3371016 GN=QTO34_010149 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA41NBG7|A0AA41NBG7_SCICA U1 small nuclear ribonucleoprotein 70 kDa OS=Sciurus carolinensis OX=30640 GN=SUZIE_192270 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA88Q7Y5|A0AA88Q7Y5_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Cirrhinus molitorella OX=172907 GN=Q8A67_000706 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TSKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA88S7Y8|A0AA88S7Y8_TACVA U1 small nuclear ribonucleoprotein 70 kDa OS=Tachysurus vachellii OX=175792 GN=Q7C36_017663 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA88SGE4|A0AA88SGE4_CHASR U1 small nuclear ribonucleoprotein 70 kDa OS=Channa striata OX=64152 GN=Q5P01_016636 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AA97K9C8|A0AA97K9C8_EUBMA U1 small nuclear ribonucleoprotein 70 kDa OS=Eublepharis macularius OX=481883 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAD3MTQ4|A0AAD3MTQ4_LATJO U1 small nuclear ribonucleoprotein 70 kDa OS=Lates japonicus OX=270547 GN=AKAME5_001311700 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAD4TUN9|A0AAD4TUN9_OVIAM U1 small nuclear ribonucleoprotein 70 kDa OS=Ovis ammon polii OX=230172 GN=MG293_015658 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAD6AW56|A0AAD6AW56_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Pogonophryne albipinna OX=1090488 GN=JOQ06_010911 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-RAAI--S---A
+SPAP--------------------------------------------------A-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAJ7WZP6|A0AAJ7WZP6_PETMA U1 small nuclear ribonucleoprotein 70 kDa OS=Petromyzon marinus OX=7757 GN=SNRNP70 PE=4 SV=1
+HTDTNVQGDAFKTLFVARI-N------YDTSE-SKLRREFEVYGPIRR-ITMIYNK---V
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGKRVLVDVER--------ARTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAN8AAL1|A0AAN8AAL1_ELEMC U1 small nuclear ribonucleoprotein 70 kDa OS=Eleginops maclovinus OX=56733 GN=PBY51_007231 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAN8BG85|A0AAN8BG85_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Champsocephalus esox OX=159716 GN=CesoFtcFv8_018067 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAN8LVA3|A0AAN8LVA3_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Coregonus suidteri OX=861788 GN=J4Q44_G00169850 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMHCEYHERP----------------TPPHN----S-----
+---PHLKWESEC--------------------------WE--------------G-----
+-----KSKEAEIKRIN--KELANIRS--KFKG--DKALDGYSKKKYVCKLLFIFLLG---
+------------------------------HDIDF--------------------GHMEA
+>tr|A0AAR2IPY3|A0AAR2IPY3_PYGNA U1 small nuclear ribonucleoprotein 70 kDa OS=Pygocentrus nattereri OX=42514 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV1GSV7|A0AAV1GSV7_XYRNO U1 small nuclear ribonucleoprotein 70 kDa OS=Xyrichtys novacula OX=13765 GN=XNOV1_A016141 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV1PGC5|A0AAV1PGC5_SCOSC U1 small nuclear ribonucleoprotein 70 kDa OS=Scomber scombrus OX=13677 GN=FSCOSCO3_A029296 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV2M189|A0AAV2M189_KNICA U1 small nuclear ribonucleoprotein 70 kDa OS=Knipowitschia caucasica OX=637954 GN=KC01_LOCUS34177 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV2ZTS0|A0AAV2ZTS0_PYXAD U1 small nuclear ribonucleoprotein 70 kDa OS=Pyxicephalus adspersus OX=30357 GN=GDO54_003454 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV6RJK2|A0AAV6RJK2_SOLSE U1 small nuclear ribonucleoprotein 70 kDa OS=Solea senegalensis OX=28829 GN=JOB18_016117 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWQPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV7B5N9|A0AAV7B5N9_ENGPU U1 small nuclear ribonucleoprotein 70 kDa OS=Engystomops pustulosus OX=76066 GN=GDO81_013793 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAV9SAZ7|A0AAV9SAZ7_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Crenichthys baileyi OX=28760 GN=CRENBAI_017355 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMHCNRQSVMAIGQSWLADDDGYDTSTPYYHSSVYA-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAW0HE48|A0AAW0HE48_MYOGA U1 small nuclear ribonucleoprotein 70 kDa OS=Myodes glareolus OX=447135 GN=U0070_012076 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------STL---
+---AALAG-GGCSIIWVLEVARHLLGNPPPPTSVAA------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAW0Q1H5|A0AAW0Q1H5_9GOBI U1 small nuclear ribonucleoprotein 70 kDa OS=Mugilogobius chulae OX=88201 GN=WMY93_001778 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVE-----------------------------------
+------------------------------------------------------------
+>tr|A0AAW1FP13|A0AAW1FP13_ZOAVI U1 small nuclear ribonucleoprotein 70 kDa OS=Zoarces viviparus OX=48416 GN=VZT92_008242 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAW2AW08|A0AAW2AW08_CULAL U1 small nuclear ribonucleoprotein 70 kDa OS=Culter alburnus OX=194366 GN=ABG768_019497 PE=4 SV=1
+HNDTNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAX7U285|A0AAX7U285_ASTCA U1 small nuclear ribonucleoprotein 70 kDa OS=Astatotilapia calliptera OX=8154 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGFAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAY4CYN9|A0AAY4CYN9_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Denticeps clupeoides OX=299321 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AAZ3SVW9|A0AAZ3SVW9_ONCTS U1 small nuclear ribonucleoprotein 70 kDa OS=Oncorhynchus tshawytscha OX=74940 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABD2D8A9|A0ABD2D8A9_DAUMA U1 small nuclear ribonucleoprotein 70 kDa OS=Daubentonia madagascariensis OX=31869 GN=WCI35_031404 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABD2D8H1|A0ABD2D8H1_DAUMA U1 small nuclear ribonucleoprotein 70 kDa OS=Daubentonia madagascariensis OX=31869 GN=WCI35_031404 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABD2GHE5|A0ABD2GHE5_PAGBO U1 small nuclear ribonucleoprotein 70 kDa OS=Pagothenia borchgrevinki OX=8213 GN=OYC64_005567 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABI7ZH22|A0ABI7ZH22_FELCA 5-formyltetrahydrofolate cyclo-ligase OS=Felis catus OX=9685 GN=SNRNP70 PE=3 SV=1
+H-------------------------------------------PVPR-------R--PR
+TPPP------------------------PP--------------GSPP------S-----
+---P----DPP-------------------------------------------------
+--------------L-------------------GRAEPGYW-REA----------G---
+------------------------------GGLG-----AGSRRPGSGDEHRGGAGPRDG
+>tr|A8KAQ5|A8KAQ5_HUMAN U1 small nuclear ribonucleoprotein 70 kDa OS=Homo sapiens OX=9606 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHTVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|F7CDG7|F7CDG7_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=SNRNP70 PE=4 SV=3
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------------------------------------
+>tr|F7CDU9|F7CDU9_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=SNRNP70 PE=4 SV=3
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|F7FIU1|F7FIU1_RAT U1 small nuclear ribonucleoprotein 70 kDa OS=Rattus norvegicus OX=10116 GN=Snrnp70 PE=1 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G3N5K7|G3N5K7_GASAC U1 small nuclear ribonucleoprotein 70 kDa OS=Gasterosteus aculeatus aculeatus OX=481459 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G3N5K9|G3N5K9_GASAC U1 small nuclear ribonucleoprotein 70 kDa OS=Gasterosteus aculeatus aculeatus OX=481459 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G5BAF7|G5BAF7_HETGA U1 small nuclear ribonucleoprotein 70 kDa OS=Heterocephalus glaber OX=10181 GN=GW7_13615 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|G7NLM4|G7NLM4_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=EGK_10871 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H2MRT5|H2MRT5_ORYLA U1 small nuclear ribonucleoprotein 70 kDa OS=Oryzias latipes OX=8090 GN=SNRNP70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---G
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWLPRRL----------G---
+------------------------------------------------------------
+>tr|H2TEQ8|H2TEQ8_TAKRU U1 small nuclear ribonucleoprotein 70 kDa OS=Takifugu rubripes OX=31033 GN=snrnp70 PE=4 SV=2
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYIVYSK---R
+TAKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H3B7D5|H3B7D5_LATCH U1 small nuclear ribonucleoprotein 70 kDa OS=Latimeria chalumnae OX=7897 GN=SNRNP70 PE=4 SV=1
+HNDVNSQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H9YV48|H9YV48_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H9YV49|H9YV49_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|H9ZCP2|H9ZCP2_MACMU U1 small nuclear ribonucleoprotein 70 kDa OS=Macaca mulatta OX=9544 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|K7D116|K7D116_PANTR U1 small nuclear ribonucleoprotein 70 kDa OS=Pan troglodytes OX=9598 GN=SNRNP70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|L5L5K7|L5L5K7_PTEAL U1 small nuclear ribonucleoprotein 70 kDa OS=Pteropus alecto OX=9402 GN=PAL_GLEAN10004566 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|L9J9Y5|L9J9Y5_TUPCH U1 small nuclear ribonucleoprotein 70 kDa OS=Tupaia chinensis OX=246437 GN=TREES_T100015205 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|M4AEE0|M4AEE0_XIPMA U1 small nuclear ribonucleoprotein 70 kDa OS=Xiphophorus maculatus OX=8083 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|Q32NW5|Q32NW5_XENLA U1 small nuclear ribonucleoprotein 70 kDa OS=Xenopus laevis OX=8355 GN=snrnp70.L PE=2 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHIVYNKGSEG
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|V9KPF0|V9KPF0_CALMI U1 small nuclear ribonucleoprotein 70 kDa OS=Callorhinchus milii OX=7868 GN=snrnp70 PE=2 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0A6J1XMU0|A0A6J1XMU0_ACIJB U1 small nuclear ribonucleoprotein 70 kDa OS=Acinonyx jubatus OX=32536 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABI7YGJ2|A0ABI7YGJ2_FELCA U1 small nuclear ribonucleoprotein 70 kDa OS=Felis catus OX=9685 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM0LII9|A0ABM0LII9_MICOH U1 small nuclear ribonucleoprotein 70 kDa OS=Microtus ochrogaster OX=79684 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM0QGQ1|A0ABM0QGQ1_GALVR U1 small nuclear ribonucleoprotein 70 kDa OS=Galeopterus variegatus OX=482537 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM0QGQ2|A0ABM0QGQ2_GALVR U1 small nuclear ribonucleoprotein 70 kDa OS=Galeopterus variegatus OX=482537 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM1AVL5|A0ABM1AVL5_MICOH U1 small nuclear ribonucleoprotein 70 kDa OS=Microtus ochrogaster OX=79684 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM1DFQ9|A0ABM1DFQ9_CERSS U1 small nuclear ribonucleoprotein 70 kDa OS=Ceratotherium simum simum OX=73337 GN=LOC101400294 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM1KY30|A0ABM1KY30_GEKJA U1 small nuclear ribonucleoprotein 70 kDa OS=Gekko japonicus OX=146911 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM3SJY4|A0ABM3SJY4_BALAC U1 small nuclear ribonucleoprotein 70 kDa OS=Balaenoptera acutorostrata OX=9767 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM3SJY5|A0ABM3SJY5_BALAC U1 small nuclear ribonucleoprotein 70 kDa OS=Balaenoptera acutorostrata OX=9767 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM3W0J9|A0ABM3W0J9_ERIEU U1 small nuclear ribonucleoprotein 70 kDa OS=Erinaceus europaeus OX=9365 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM3W0K3|A0ABM3W0K3_ERIEU U1 small nuclear ribonucleoprotein 70 kDa OS=Erinaceus europaeus OX=9365 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM4GTK3|A0ABM4GTK3_ODOVR U1 small nuclear ribonucleoprotein 70 kDa OS=Odocoileus virginianus OX=9874 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM4JEJ0|A0ABM4JEJ0_EQUPR U1 small nuclear ribonucleoprotein 70 kDa OS=Equus przewalskii OX=9798 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABM4QW69|A0ABM4QW69_BOSIN U1 small nuclear ribonucleoprotein 70 kDa OS=Bos indicus OX=9915 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABN9AE70|A0ABN9AE70_9NEOB U1 small nuclear ribonucleoprotein 70 kDa OS=Staurois parvus OX=386267 GN=SPARVUS_LOCUS488713 PE=4 SV=1
+HNDQNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYNK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABQ0EYG0|A0ABQ0EYG0_APOSI U1 small nuclear ribonucleoprotein 70 kDa OS=Apodemus speciosus OX=105296 GN=APTSU1_000729900 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKRIIHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------SGLQLM
+L-TLPLQHLSVCS-------PQEL---PAPPIPLGLDTRKAGIGNFGRPGRRGLLHHVKA
+GEARAAYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABQ7TAF1|A0ABQ7TAF1_PHRPL U1 small nuclear ribonucleoprotein 70 kDa OS=Phrynosoma platyrhinos OX=52577 GN=JD844_001810 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---H
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABQ8MTV7|A0ABQ8MTV7_LABRO U1 small nuclear ribonucleoprotein 70 kDa OS=Labeo rohita OX=84645 GN=H4Q32_010102 PE=4 SV=1
+-------------------------------------------------IYIVYNK---K
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ABU7EGM6|A0ABU7EGM6_9TELE U1 small nuclear ribonucleoprotein 70 kDa OS=Characodon lateralis OX=208331 GN=CHARACLAT_000861 PE=4 SV=1
+HNDPNAQGDAFKTLFVARI-N------YDTTE-SKLRREFEVYGPIKR-IYIVYNK---R
+TGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWHPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AC54ZB17|A0AC54ZB17_ORYAF U1 small nuclear ribonucleoprotein 70 kDa OS=Orycteropus afer afer OX=1230840 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AC55D9L9|A0AC55D9L9_ECHTE U1 small nuclear ribonucleoprotein 70 kDa isoform X1 OS=Echinops telfairi OX=9371 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AC55D9M0|A0AC55D9M0_ECHTE U1 small nuclear ribonucleoprotein 70 kDa isoform X2 OS=Echinops telfairi OX=9371 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AC58LA47|A0AC58LA47_CASCN U1 small nuclear ribonucleoprotein 70 kDa isoform X3 OS=Castor canadensis OX=51338 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0AC58LA70|A0AC58LA70_CASCN U1 small nuclear ribonucleoprotein 70 kDa isoform X2 OS=Castor canadensis OX=51338 GN=Snrnp70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IHMVYSK---R
+SGKPRGYAFIEY---EHERDMH--------------------------------S-----
+------------------------------------------------------------
+-----AYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
+>tr|A0ACB8EUW9|A0ACB8EUW9_9SAUR U1 small nuclear ribonucleoprotein 70 kDa OS=Sphaerodactylus townsendi OX=933632 GN=SNRNP70 PE=4 SV=1
+HNDPNAQGDAFKTLFVARV-N------YDTTE-SKLRREFEVYGPIKR-IYMVYNK---R
+SSKPRGYAFIEY---EHERDMH--------------------------------STFLMA
+IATAGLQ------LILML-----------PLYNISLYGWY--------------K-----
+----AAYKHADGKKIDGRRVLVDVER--------GRTVKGWRPRRL----------G---
+------------------------------GGLG---------------------GTRRG
