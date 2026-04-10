@@ -1,0 +1,1 @@
+# Script for mapping PDB residues to UniProt/human numbering

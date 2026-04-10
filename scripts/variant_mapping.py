@@ -1,0 +1,1 @@
+# Script for mapping disease/cancer variants
